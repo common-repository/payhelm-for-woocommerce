@@ -1,0 +1,25 @@
+*** WooCommerce Extension Changelog ***
+
+2024-09-19 - version 1.0.7
+* Bugfixes
+
+2024-07-30 - version 1.0.6
+* Bugfixes
+
+2024-07-20 - version 1.0.5
+* Bugfixes
+
+2024-07-15 - version 1.0.4
+* Bugfixes
+
+2024-07-09 - version 1.0.3
+* Update
+
+2024-06-05 - version 1.0.2
+* Update
+
+2023-05-01 - version 1.0.1
+* Update
+
+2023-01-27 - version 1.0.0
+* Initial release
